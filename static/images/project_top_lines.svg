@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="955px" height="154px" viewBox="0 0 955 154" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>линии_с_квадратом</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="1280" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-163.000000, -250.000000)">
+        <g id="линии_с_квадратом" transform="translate(164.000000, 251.000000)" stroke="#FFFFFF" stroke-width="1.5">
+            <rect id="Rectangle-5" x="925.75" y="0.75" width="26.5" height="27.5"></rect>
+            <path d="M952.5,29.5082645 L952.5,151.495971" id="Line" stroke-linecap="square"></path>
+            <path d="M925.5,0.5 L0.169433594,151.944336" id="Line-2" stroke-linecap="square"></path>
+        </g>
+    </g>
+</svg>
